@@ -15,5 +15,5 @@ star_wars = ["Episode 4 - A New Hope", 1977,
  ]
 
 # invoke the print_lol method via the nester namespace prefix
-nester.print_lol(star_wars)
+nester.print_lol(star_wars, 0)
 
